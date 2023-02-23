@@ -14,7 +14,7 @@ print(data[:2])
 
 # load the data into a dictionary
 info = json.loads(data)
-myData = info["data"]
+myData = info["data"]  # get the data part of the dictionary
 
 print(myData[0:5])
 print("Total salary:"+  myData[0][18])

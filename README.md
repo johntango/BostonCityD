@@ -1,4 +1,4 @@
-# Boston City Data Exercise
+# Boston City Data Exercise Solution
 ## Goal is to understand where Boston City spends its money  
 ### You are given a url where you can get the data 
 ### url = "https://pollysnips.s3.amazonaws.com/bostonEmployeeSalaries.json"
